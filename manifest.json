@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "NoteVault Pro एक smart notes website है जहाँ आप अपने notes आसानी से बना, manage और organize कर सकते हैं.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "NoteVault Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "NoteVault",
+  "start_url": "/",
+  "theme_color": "#3478f6",
+  "icons": [
+    {
+      "src": "https://mddanish-veb.github.io/Notevoult-pro/file_000000002bbc81fd836ad98f93b7a071.png",
+      "type": "image/png",
+      "sizes": "1254x1254",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1254,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "en"
+}
